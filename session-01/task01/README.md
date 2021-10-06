@@ -62,3 +62,4 @@ ReactDOM.render(React.createElement(ClickButton), domContainer);
 <script type="text/javascript" src="index.js"></script>
 ```
 
+- Open the [**index.html**](index.html) file in a browser to test the code is working.
