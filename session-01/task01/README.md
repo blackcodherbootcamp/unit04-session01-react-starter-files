@@ -1,8 +1,8 @@
 # React
 
-## Exercise 1: Adding React to a Web Page
+## Task 1: Adding React to a Web Page
 
-### Starter Files Exercise 01:
+### Starter Files Task 01:
 
 ```
 - task01
